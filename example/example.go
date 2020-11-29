@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"premiumize"
+	"github.com/jaskaranSM/premiumize"
 )
 
 func main() {
